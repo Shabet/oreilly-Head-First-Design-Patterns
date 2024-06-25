@@ -1,4 +1,4 @@
-package section06.facade.hometheater;
+package section07.facade.hometheater;
 
 public class HomeTheaterTestDrive {
 	public static void main(String[] args) {

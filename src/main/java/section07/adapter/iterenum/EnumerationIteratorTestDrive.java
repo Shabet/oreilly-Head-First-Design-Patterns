@@ -1,4 +1,4 @@
-package section06.adapter.iterenum;
+package section07.adapter.iterenum;
 
 import java.util.Arrays;
 import java.util.Iterator;

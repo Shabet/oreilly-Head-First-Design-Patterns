@@ -1,4 +1,4 @@
-package section06.adapter.ducks;
+package section07.adapter.ducks;
 
 public interface Turkey {
     public void gobble();
