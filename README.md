@@ -4,10 +4,11 @@
 
 저자: Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
 
-공식 예제 저장소가 따로 안내되어 있지 않아, 아래 커뮤니티 자료를 참고합니다.
+공식 예제 코드는 [bethrobson/Head-First-Design-Patterns](https://github.com/bethrobson/Head-First-Design-Patterns)에서 확인할 수 있습니다.
 
 ## 참고 자료
 
+- [bethrobson/Head-First-Design-Patterns](https://github.com/bethrobson/Head-First-Design-Patterns) — 공식 예제 저장소 (2020 2nd Edition)
 - [IT-Book-Organization/HeadFirst-DesignPattern](https://github.com/IT-Book-Organization/HeadFirst-DesignPattern) — 한국어로 챕터별 개념을 정리한 저장소
 - [dhairyagupta2603/Head-First-Design-Patterns](https://github.com/dhairyagupta2603/Head-First-Design-Patterns) — 책의 패턴을 C++ / Python으로 구현한 저장소
 
